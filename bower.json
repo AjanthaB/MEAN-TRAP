@@ -1,0 +1,25 @@
+{
+  "name": "mean-trap",
+  "description": "fullstack application with Express.js, Angular 2, MongoDB, Node.js",
+  "main": "",
+  "authors": [
+    "ajantha.p.bandara@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "2",
+    "express.js",
+    "node.js",
+    "mongodb",
+    "bootstrap"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
